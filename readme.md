@@ -9,6 +9,7 @@ A growing list of resources related to Vectors and Plane Geometry.
 * [Vectors and Geometry in Two and Three Dimensions](http://www.math.ubc.ca/~feldman/m200/geometry.pdf)
 * [Treatise of Plane Geometry Through Geometric Algebra](http://library.atgti.az/categories/economy/Calvet%20R.%20G.%20-%20Treatise%20of%20Plane%20Geometry%20Through%20Geometric%20Algebra.pdf)
 
+
 ### Complex Structure
 * [Complex vector spaces, duals, and duels: Fun with a number, or two, or four](http://www.danielmathews.info/articles/complex_fun.pdf)
 * [Complex Multilinear Algebra](https://www.math.wisc.edu/~westrich/Complex%20Multilinear%20Algebra.pdf)

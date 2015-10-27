@@ -1,6 +1,6 @@
 # Vector-2D Math Resources
 
-A growing list of resources related to Vectors and Geometry.
+A growing list of resources related to Vectors and Plane Geometry.
 
 ### Vector Math in Plane Geometry
 * [Calculating with Vectors in Plane Geometry](http://www.math.bas.bg/bantchev/articles/vect.pdf)
